@@ -3,7 +3,7 @@
 ![Design preview for the Notifications page coding challenge](./design/desktop-preview.jpg)
 ![active-states](https://user-images.githubusercontent.com/91588670/194170255-b36a709d-68c6-4304-9298-282b2ef92dee.jpg)
 
-To view live: <a href:"https://jacktone-wambui.github.io/notifications.io/">Notifications <a>
+To view live: https://jacktone-wambui.github.io/notifications.io/
 
 
 ## Welcome! 👋
